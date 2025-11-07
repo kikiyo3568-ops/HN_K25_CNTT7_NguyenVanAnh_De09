@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-int main(){
+int main(){ //Em chua lam case 10
 	int n, choose;
 	int a, b;
 	int pos, val;
